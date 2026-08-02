@@ -1,16 +1,23 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=600&size=30&duration=4000&pause=1000&color=29722C91&center=true&vCenter=true&width=500&lines=SbiDev;Sebastian+Brice%C3%B1o)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=600&size=30&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=SbiDev;Sebastian+Brice%C3%B1o)
 
-**Técnico Superior en Informática**
+_Hola, soy Sebastian Briceño también conocido como SbiDev_
+
+**📜 Técnico Superior en Informática - 📚 Aprendiz FullStack** <br> **⚙️ Apasionado por la Arquitectura de Software, el Diseño y el Código Bien Estructurado ✒️**
+
+~Amante del Café y el Arte ☕ <br> 🇻🇪
 </div>
 
+---
+
+### 🔗 Proyectos en los que Trabajo
 
 | Proyecto | Descripción | |
 | --- | --- | --- |
-| **📊 [NominaSystem](https://github.com/SbiDev-447/NominaSystem)** | Sistema de Gestión de Nómina. SPA con Node.js, Express y JS vanilla. | ![Stars](https://img.shields.io/github/stars/SbiDev-447/NominaSystem?style=flat-square&label=) |
+| **📊 [NominaSystem](https://github.com/SbiDev-447/NominaSystem)** | Sistema de Gestión de Nómina. SPA con Node.js, Express y JS vanilla. | ![Stars](https://img.shields.io/github/stars/SbiDev-447/NominaSystem?style=flat-square&label=%E2%AD%90) |
 
-<br>
+---
 
 ### 🛠️ Tech Stack
 
@@ -20,5 +27,3 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
 | **Terminal** | ![LazyVim](https://img.shields.io/badge/LazyVim-00A86B?style=for-the-badge&logo=vim&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white) |
 | **Base de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-

@@ -1,4 +1,5 @@
 **Técnico Superior en Informática -**
 <div align = center>
-https://img.shields.io/github/stars/SbiDev-447/SbiDev-447?style=flat-square&label=%E2%AD%90
+||Proyectos|Descripción||
+|📊| NominaSystem | Sistema de Gestión de Nómina - SPA desarrollada con Node.js, Express y JavaScript vanilla. | ![Stars](https://img.shields.io/github/stars/SbiDev-447/NominaSystem?style=flat-square&label=%E2%AD%90)
 </div>

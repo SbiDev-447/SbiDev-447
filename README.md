@@ -16,7 +16,7 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 | Proyecto | Descripción | |
 | --- | --- | --- |
 | **📊 [NominaSystem](https://github.com/SbiDev-447/NominaSystem)** | Sistema de Gestión de Nómina. SPA con Node.js, Express y JS vanilla. | ![Stars](https://img.shields.io/github/stars/SbiDev-447/NominaSystem?style=flat-square&label=%E2%AD%90) |
-| 🎨[TurtleGlassesTheme](https://github.com/SbiDev-447/TurtleGlassesVSCode) | Tema Personalizado para VSCode | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesVSCode?style=flat-square&label=%E2%AD%90) |
+| **🎨 [TurtleGlassesTheme](https://github.com/SbiDev-447/TurtleGlassesVSCode)** | Tema Personalizado para VSCode | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesVSCode?style=flat-square&label=%E2%AD%90) |
 ---
 
 ### 🛠️ Tech Stack

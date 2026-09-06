@@ -1,13 +1,18 @@
 
 
 <div align="center">
-  <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" width="100%">
+  <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" 
+  width="80%"
 </div>
 
+<br>
+<br>
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=600&size=30&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=SbiDev;Sebastian+Brice%C3%B1o)
+
+
 
 _Hola, soy Sebastian Briceño también conocido como SbiDev_
 

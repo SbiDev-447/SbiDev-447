@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" width="200">
+  <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" width="100%">
 </div>
 
 

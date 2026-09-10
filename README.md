@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" 
-  width="80%"
 </div>
 
 <br>

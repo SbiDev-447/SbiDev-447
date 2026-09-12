@@ -1,15 +1,7 @@
-<div align="center">
-  <img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper" 
-</div>
-
-<br>
-<br>
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=600&size=30&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=SbiDev;Sebastian+Brice%C3%B1o)
-
-
 
 _Hola, soy Sebastian Briceño también conocido como SbiDev_
 
@@ -38,3 +30,10 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 | **Base de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Editor y Terminal** | ![Neovim](https://img.shields.io/badge/Neovim-00A86B?style=for-the-badge&logo=vim&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+  
+
+<br>
+
+<img src="./files/WallpaperSbiTech.webp" alt="SbiDev Wallpaper"> 
+

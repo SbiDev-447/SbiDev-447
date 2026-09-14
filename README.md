@@ -9,7 +9,7 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 
 ~Amante del Café y el Arte ☕ <br> 🇻🇪
 
-[![Portfolio-Vanilla](https://github-readme-stats.vercel.app/api/pin/?username=SbiDev-447&repo=Portfolio-Vanilla&theme=vue)](https://github.com/SbiDev-447/Portfolio-Vanilla)
+[![Portfolio-Vanilla](https://img.shields.io/badge/Portfolio--Vanilla-Mi_Portfolio_Web-2ECC71?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/SbiDev-447/Portfolio-Vanilla)
 </div>
 
 ---

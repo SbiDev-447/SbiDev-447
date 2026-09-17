@@ -19,7 +19,9 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 | Proyecto | Descripción | |
 | --- | --- | --- |
 | **📊 [NominaSystem](https://github.com/SbiDev-447/NominaSystem)** | Sistema de Gestión de Nómina. SPA con Node.js, Express y JS vanilla. | ![Stars](https://img.shields.io/github/stars/SbiDev-447/NominaSystem?style=flat-square&label=%E2%AD%90) |
-| **🎨 [TurtleGlassesTheme](https://github.com/SbiDev-447/TurtleGlassesVSCode)** | Tema Personalizado para VSCode | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesVSCode?style=flat-square&label=%E2%AD%90) |
+| **🎨 TurtleGlassesTheme** | Suite de temas personalizados | |
+| ↳ [TurtleGlasses-GTK](https://github.com/SbiDev-447/TurtleGlasses-GTK) | Tema GTK (Light Schema) | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlasses-GTK?style=flat-square&label=%E2%AD%90) |
+| ↳ [TurtleGlassesVSCode](https://github.com/SbiDev-447/TurtleGlassesVSCode) | Tema Personalizado para VSCode | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesVSCode?style=flat-square&label=%E2%AD%90) |
 | **🐚 [Dotfiles-SbiDev](https://github.com/SbiDev-447/Dotfiles-SbiDev)** | Mis dotfiles personales (Neovim, Tmux y más) | ![Stars](https://img.shields.io/github/stars/SbiDev-447/Dotfiles-SbiDev?style=flat-square&label=%E2%AD%90) |
 ---
 
@@ -35,7 +37,7 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge) |
 | **O.S.** | ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
 
-  
+
 
 <br>
 

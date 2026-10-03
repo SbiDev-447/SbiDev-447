@@ -22,7 +22,6 @@ _Hola, soy Sebastian Briceño también conocido como SbiDev_
 | **🎨 TurtleGlassesTheme** | Suite de temas personalizados | |
 | ↳ [TurtleGlasses-GTK](https://github.com/SbiDev-447/TurtleGlasses-GTK) | Tema GTK (Light Schema) | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlasses-GTK?style=flat-square&label=%E2%AD%90) |
 | ↳ [TurtleGlassesVSCode](https://github.com/SbiDev-447/TurtleGlassesVSCode) | Tema Personalizado para VSCode | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesVSCode?style=flat-square&label=%E2%AD%90) |
-| ↳ [TurtleGlassesNvim](https://github.com/SbiDev-447/TurtleGlassesNvim) | Tema Personalizado para Nvim | ![Stars](https://img.shields.io/github/stars/SbiDev-447/TurtleGlassesNvim?style=flat-square&label=%E2%AD%90) |
 | **🐚 [Dotfiles-SbiDev](https://github.com/SbiDev-447/Dotfiles-SbiDev)** | Mis dotfiles personales (Neovim, Tmux y más) | ![Stars](https://img.shields.io/github/stars/SbiDev-447/Dotfiles-SbiDev?style=flat-square&label=%E2%AD%90) |
 ---
 
